@@ -1,0 +1,20 @@
+body {
+  padding: 70px;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.link:active {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+.link:visited {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
